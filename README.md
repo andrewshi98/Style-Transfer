@@ -23,7 +23,7 @@ Alex Jiang,
 Xin Lin netid: xlin7799,
 Xiaxuan Gao netid: gaox26
 
-Video Link:
+Video Link: https://youtu.be/em0WcErCxFk
 
 ## Background
 
