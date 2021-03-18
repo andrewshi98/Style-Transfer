@@ -47,8 +47,8 @@ Given the original image and the style image.
 ![content](/data/style.jpg)
 
 \
-\
-We can get the transformed image below.
+We can get the transformed image like below.
 ![Result](/data/Result.png)
 
-## Reference
+## Discussion
+The most difficult problem we encountered was understanding the math proof behind this neural transform. We spent quit a lot of time working on coding the style loss as well as feature extraction. The next step for us is to make this style transform happening in the live video. And we expect it to work like the instagram filter. The main difference between our work and other people's work is that we used VGG-19 pretrained network. This enables us to not to train a neural network from scratch.
